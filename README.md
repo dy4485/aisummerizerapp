@@ -2,9 +2,8 @@ AI Summarizer App
 
  Overview
 
-AISummarizerApp is a lightweight, AI-powered tool that generates concise summaries from large blocks of text or articles. Built using advanced Natural Language Processing (NLP) techniques, this application leverages AI to understand and extract key points from lengthy text, making it an ideal tool for quickly grasping the core ideas of articles, research papers, or documents.
+AISummarizerApp is a lightweight, AI-powered tool that generates concise summaries from large blocks of text or articles. Built using advanced Natural Language Processing (NLP) techniques.
 
-This project is designed as a practice application, allowing developers to understand how to integrate AI models into web-based applications, offering a solid foundation to build more advanced text-processing tools.
 
 Features
 
